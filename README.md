@@ -22,7 +22,7 @@ Além disso, estou desenvolvendo um mindset empreendedor, buscando ampliar minha
 
 Aqui estão alguns dos meus projetos mais notáveis:
 
-1. **[Portfolio](#)**: Em breve - Um projeto para ajudar Devs, Fotógrafos, Artistas, entre outros, a terem um portfólio intuitivo e atraente, destacando-se no mercado.
+1. **[Portfolio](#)**: Em breve - Um projeto para ajudar Devs, Fotógrafos, Artistas, entre outros, a terem um portfólio intuitivo e atraente, destacando-se com excelência no mercado.
 2. **[Projeto Pendente](#)**: Em breve.
 3. **[Projeto Pendente](#)**: Em breve.
 
@@ -35,7 +35,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
   - HTML5 / CSS3, React.js / Next.js, Node.js, AngularJS, MongoDB, MySQL, PL/SQL
 
 - **Ferramentas e Frameworks:**
-  - Git / GitHub, Visual Studio Code, Bootstrap, TailWindCSS, Express.js
+  - Git / GitHub, Visual Studio Code, Bootstrap, TailWindCSS, Express.js, SCSS
 
 ## Estatísticas do GitHub
 
