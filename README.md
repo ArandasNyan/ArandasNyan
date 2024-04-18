@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas pela [FIAP](https://fiap.com.br), apaixonado por programação e com experiência em criação de websites e aplicativos móveis. Meu objetivo é tornar-me um desenvolvedor Full-Stack ou Back-End, trazendo soluções eficazes e rápidas para os desafios do mundo digital.
+Sou estudante de Análise e Desenvolvimento de Sistemas pela [FIAP](https://fiap.com.br), apaixonado por programação e com experiência em criação de websites e aplicativos móveis. Meu objetivo é tornar-me um desenvolvedor Full-Stack, trazendo soluções eficazes e rápidas para os desafios do mundo digital.
 
 ## O que faço
 
