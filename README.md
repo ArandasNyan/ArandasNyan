@@ -49,9 +49,6 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 Estou aberto a oportunidades de colaboração e novos desafios. Se você quiser entrar em contato comigo, pode me encontrar nas seguintes plataformas:
 
-- Email: [emmanoelkratos2@gmail.com](mailto:emmanoelkratos2@gmail.com)
-- LinkedIn: [EmmanoelVieira](https://www.linkedin.com/in/emmanoel-vieira-57b7b6244/)
-- Portfolio: [pendente](#)
 - Email: <a href="mailto:emmanoelkratos2@gmail.com" target="_blank">emmanoelkratos2@gmail.com</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/emmanoel-vieira-57b7b6244/" target="_blank">EmmanoelVieira</a>
 - Portfolio: <a href="#">Em produção</a>
