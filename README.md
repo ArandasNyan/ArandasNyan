@@ -52,5 +52,9 @@ Estou aberto a oportunidades de colaboração e novos desafios. Se você quiser 
 - Email: [emmanoelkratos2@gmail.com](mailto:emmanoelkratos2@gmail.com)
 - LinkedIn: [EmmanoelVieira](https://www.linkedin.com/in/emmanoel-vieira-57b7b6244/)
 - Portfolio: [pendente](#)
+- Email: <a href="mailto:emmanoelkratos2@gmail.com" target="_blank">emmanoelkratos2@gmail.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/emmanoel-vieira-57b7b6244/" target="_blank">EmmanoelVieira</a>
+- Portfolio: <a href="#">Em produção</a>
+
 
 Ficarei feliz em discutir qualquer oportunidade de colaboração ou projetos interessantes que você tenha em mente. Vamos trabalhar juntos para alcançar grandes resultados que só as BigTechs em ascessão conseguem!
