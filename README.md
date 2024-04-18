@@ -24,7 +24,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 1. **[Portfolio](#)**: Em breve - Um projeto para ajudar Devs, Fotógrafos, Artistas, entre outros, a terem um portfólio intuitivo e atraente, destacando-se com excelência no mercado.
 2. **[Projeto Pendente](#)**: Em breve.
-3. **[Projeto Pendente](#)**: Em breve.
+3. **[Smart Weather](https://github.com/ArandasNyan/SmartWeather)**: Smart Weather é um aplicativo de previsão climática que oferece informações detalhadas sobre o clima atual e futuro para ajudá-lo a planejar suas atividades ao ar livre.
 
 ## Tecnologias e Habilidades
 
