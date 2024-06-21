@@ -53,7 +53,4 @@ Estou aberto a oportunidades de colaboração e novos desafios. Se você quiser 
 - LinkedIn: <a href="https://www.linkedin.com/in/emmanoel-vieira-57b7b6244/" target="_blank">EmmanoelVieira</a>
 - Portfolio: <a href="#">Em produção</a>
 
-<a href="https://app.rocketseat.com.br/me/emmanoelarandas013"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=emmanoelarandas013&type=card" width="280" alt="Emmanoel Arandas's Rocket ID"/></a>
-
-
 Ficarei feliz em discutir qualquer oportunidade de colaboração ou projetos interessantes que você tenha em mente. Vamos trabalhar juntos para alcançar grandes resultados que só as BigTechs em ascessão conseguem!
