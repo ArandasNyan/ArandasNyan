@@ -1,56 +1,54 @@
-<h1 align="center">Arandas Nyan</h1>
+<h1 align="center">Emmanoel Vieira — Desenvolvedor Back-end</h1>
 
-## Sobre mim
+Formado em **Análise e Desenvolvimento de Sistemas** pela [FIAP](https://fiap.com.br), desenvolvo soluções web back-end com foco em **eficiência, automação** e **integrações de alto desempenho**.
+Tenho experiência em projetos acadêmicos, pessoais e freelance, aplicando tecnologias modernas para entregar resultados **robustos, escaláveis e seguros**.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas pela [FIAP](https://fiap.com.br), apaixonado por programação e com experiência em criação de websites e aplicativos móveis. Meu objetivo é tornar-me um desenvolvedor Full-Stack, trazendo soluções eficazes e rápidas para os desafios do mundo digital.
+---
 
-## O que faço
+## Principais Competências
 
-Atualmente, estou imerso em uma jornada de aprendizado na FIAP, explorando e aprimorando minhas habilidades em diversas áreas:
+**Linguagens:** JavaScript, TypeScript, Kotlin, Java, SQL
 
-- **Desenvolvimento Web:** Utilizando HTML, CSS e JavaScript para criar experiências envolventes. Além disso, estudo frameworks como AngularJS, Bootstrap e ReactJS para trazer inovação aos meus projetos.
-- **Design de Interfaces:** Dedico-me a compreender as necessidades dos usuários e transformá-las em interfaces intuitivas e atraentes, seguindo as melhores práticas de UX/UI.
-- **Gerenciamento Ágil de Projetos:** Lidero equipes na implementação de metodologias como Scrum, XP e Kanban, garantindo entregas de alta qualidade dentro de prazos desafiadores.
-- **Desenvolvimento de Aplicações Distribuídas e Mobile:** Aplico minha paixão por resolver problemas para criar soluções inovadoras e sob medida, utilizando tecnologias como Python, Java, C#, Kotlin, Swift e JavaScript.
-- **Bancos de Dados:** Tenho habilidade em SQL e PL/SQL, estruturando dados de forma eficiente e apoiando estratégias de negócios.
-- **Cloud Computing:** Utilizo tecnologias para implementar e escalar soluções através de web services e RESTful APIs, explorando as infinitas possibilidades oferecidas pela nuvem.
-- **Tecnologias Emergentes:** Busco constantemente expandir meus horizontes explorando tecnologias emergentes como Blockchain, Inteligência Artificial e IoT.
+**Frameworks e Ferramentas:**
+Node.js, Express.js, React.js, Next.js, Bootstrap, TailwindCSS, SCSS
 
-Além disso, estou desenvolvendo um mindset empreendedor, buscando ampliar minhas ideias, resolver problemas e entender as demandas do mercado, com o objetivo final de criar minha própria startup.
+**Bancos de Dados:**
+MongoDB, MySQL, PostgreSQL, PL/SQL
 
-## Projetos Destacados
+**Cloud e APIs:**
+RESTful APIs, Web Services, Deploy em nuvem (AWS, Azure)
 
-Aqui estão alguns dos meus projetos mais notáveis:
+**Versionamento:**
+Git, GitHub
 
-1. **[Portfolio](#)**: Em breve - Um projeto para ajudar Devs, Fotógrafos, Artistas, entre outros, a terem um portfólio intuitivo e atraente, destacando-se com excelência no mercado.
-2. **[Projeto Pendente](#)**: Em breve.
-3. **[Smart Weather](https://github.com/ArandasNyan/SmartWeather)**: Smart Weather é um aplicativo **mobile** de previsão climática que oferece informações detalhadas sobre o clima atual e futuro para ajudá-lo a planejar suas atividades ao ar livre.
+**UX/UI:**
+Desenvolvimento de interfaces intuitivas e acessíveis (estudando Front-end com boas práticas)
 
-## Tecnologias e Habilidades
+---
 
-- **Linguagens de Programação:**
-  - Python, Java, JavaScript, SQL, Kotlin, Swift, TypeScript
+## Projetos em Destaque
 
-- **Tecnologias:**
-  - HTML5 / CSS3, React.js / Next.js, Node.js, AngularJS, MongoDB, MySQL, PL/SQL
+* **[to-do-api](https://github.com/seu-usuario/to-do-api):** API para aplicativos de gestão de tarefas, com arquitetura robusta, documentação via Swagger e autenticação JWT.
+* **[Smart Weather](https://github.com/seu-usuario/SmartWeather):** Aplicativo mobile de previsão do tempo com integração de APIs e design focado na usabilidade.
+* **Projetos acadêmicos e freelance:** Sistemas web, automações e aplicativos mobile, sempre priorizando performance e escalabilidade.
 
-- **Ferramentas e Frameworks:**
-  - Git / GitHub, Visual Studio Code, Bootstrap, TailWindCSS, Express.js, SCSS
+---
 
-## Estatísticas do GitHub
+## Diferenciais
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ArandasNyan&show_icons=true)
+* **Mentalidade de crescimento contínuo** e aprendizado rápido
+* Experiência em **integrações complexas** e automação de processos (incluindo chatbots)
+* Capacidade de atuar **de forma independente** ou em **times ágeis**
+* Código **limpo, documentado** e preparado para **manutenção a longo prazo**
 
-## Linguagens Mais Utilizadas
+---
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArandasNyan&layout=compact)
+## Contato
 
-## Como Entrar em Contato
+* **Email:** [emmanoelkratos2@gmail.com](mailto:arandasnyan@gmail.com)
+* **LinkedIn:** [Emmanoel Vieira](https://www.linkedin.com/in/arandasnyan/)
+* **Portfólio:** Em desenvolvimento
 
-Estou aberto a oportunidades de colaboração e novos desafios. Se você quiser entrar em contato comigo, pode me encontrar nas seguintes plataformas:
 
-- Email: <a href="mailto:emmanoelkratos2@gmail.com" target="_blank">emmanoelkratos2@gmail.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/emmanoel-vieira-57b7b6244/" target="_blank">EmmanoelVieira</a>
-- Portfolio: <a href="#">Em produção</a>
+> Aberto a colaboração — pronto para contribuir com soluções inovadoras e gerar impacto real em cada projeto.
 
-Ficarei feliz em discutir qualquer oportunidade de colaboração ou projetos interessantes que você tenha em mente. Vamos trabalhar juntos para alcançar grandes resultados que só as BigTechs em ascessão conseguem!
