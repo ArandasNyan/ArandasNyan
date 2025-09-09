@@ -3,8 +3,6 @@
 Formado em **Análise e Desenvolvimento de Sistemas** pela [FIAP](https://fiap.com.br), desenvolvo soluções web back-end com foco em **eficiência, automação** e **integrações de alto desempenho**.
 Tenho experiência em projetos acadêmicos, pessoais e freelance, aplicando tecnologias modernas para entregar resultados **robustos, escaláveis e seguros**.
 
----
-
 ## Principais Competências
 
 **Linguagens:** JavaScript, TypeScript, Kotlin, Java, SQL
@@ -24,15 +22,11 @@ Git, GitHub
 **UX/UI:**
 Desenvolvimento de interfaces intuitivas e acessíveis (estudando Front-end com boas práticas)
 
----
-
 ## Projetos em Destaque
 
 * **[to-do-api](https://github.com/seu-usuario/to-do-api):** API para aplicativos de gestão de tarefas, com arquitetura robusta, documentação via Swagger e autenticação JWT.
 * **[Smart Weather](https://github.com/seu-usuario/SmartWeather):** Aplicativo mobile de previsão do tempo com integração de APIs e design focado na usabilidade.
 * **Projetos acadêmicos e freelance:** Sistemas web, automações e aplicativos mobile, sempre priorizando performance e escalabilidade.
-
----
 
 ## Diferenciais
 
@@ -41,14 +35,10 @@ Desenvolvimento de interfaces intuitivas e acessíveis (estudando Front-end com 
 * Capacidade de atuar **de forma independente** ou em **times ágeis**
 * Código **limpo, documentado** e preparado para **manutenção a longo prazo**
 
----
-
 ## Contato
 
 * **Email:** [emmanoelkratos2@gmail.com](mailto:arandasnyan@gmail.com)
 * **LinkedIn:** [Emmanoel Vieira](https://www.linkedin.com/in/arandasnyan/)
 * **Portfólio:** Em desenvolvimento
 
-
 > Aberto a colaboração — pronto para contribuir com soluções inovadoras e gerar impacto real em cada projeto.
-
