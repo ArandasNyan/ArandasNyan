@@ -5,16 +5,16 @@ Tenho experiência em projetos acadêmicos, pessoais e freelance, aplicando tecn
 
 ## Principais Competências
 
-**Linguagens:** JavaScript, TypeScript, Kotlin, Java, SQL
+**Linguagens:** JavaScript, TypeScript, CSharp, SQL
 
 **Frameworks e Ferramentas:**
-Node.js, Express.js, React.js, Next.js, Bootstrap, TailwindCSS, SCSS
+Node.js, Express.js, Next.js, .Net, TailwindCSS, SCSS
 
 **Bancos de Dados:**
-MongoDB, MySQL, PostgreSQL, PL/SQL
+MongoDB, PostgreSQL, PL/SQL
 
 **Cloud e APIs:**
-RESTful APIs, Web Services, Deploy em nuvem (AWS, Azure)
+RESTful APIs, Web Services, Deploy em nuvem (Azure)
 
 **Versionamento:**
 Git, GitHub
@@ -39,6 +39,5 @@ Desenvolvimento de interfaces intuitivas e acessíveis (estudando Front-end com 
 
 * **Email:** [emmanoelkratos2@gmail.com](mailto:arandasnyan@gmail.com)
 * **LinkedIn:** [Emmanoel Vieira](https://www.linkedin.com/in/arandasnyan/)
-* **Portfólio:** Em desenvolvimento
 
 > Aberto a colaboração — pronto para contribuir com soluções inovadoras e gerar impacto real em cada projeto.
